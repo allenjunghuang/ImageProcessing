@@ -1,0 +1,15 @@
+PCX image data are compressed using run-length encoding (RLE), a simple lossless compression algorithm that collapses a series of three or more consecutive bytes with identical values into a two-byte pair. The two most-significant bits of a byte are used to determine whether the given data represent a single pixel of a given palette index or color value, or an RLE pair representing a series of several pixels of a single value:
+
+1. If both bits are 1, the byte is interpreted as the run length. This leaves 6 bits for the actual run length value, i.e. a value range of 0-63
+
+2. In any other case, the byte is interpreted as a single pixel value. This leaves all value for which bit #7 and bit #8 are not 1 at the same time. This requirement is not met by all values of 192 (binary 11000000) and above.
+
+
+Compared to the maximum run length of 128, possible with TGA RLE compression, the PCX run-length encoding offers a larger single-pixel value range, while the maximum run length is restricted to 63.
+
+Due to the use of the two most-significant bits as flags, pixel values from 192 to 255 (with their most-significant bit already set) must be stored in an RLE byte pair, even when they only occur one or two pixels in succession, whereas color indexes 0 to 191 can be stored directly or in RLE byte pairs (whichever is more space-efficient); therefore, the actual compression ratio could be optimized with proper sorting of palette entries, though this is not feasible where the file must share its color palette with other images. For example, a palette could be optimized with the most commonly used colors occurring in palette positions 0 to 191 and the least common colors allocated to the remaining quarter of the palette.
+
+Another inefficiency with the RLE algorithm is that it is possible to store chunks with a length of 0, which allows whitespace in the file. This allowed PCX files to be decompressed slightly faster on the processors it was originally intended for. This quirk could be used for steganography.
+
+The PCX compression algorithm requires very little processor power or memory to apply, a significant concern with the computer systems when it was designed. As computers and display hardware grow more sophisticated, the PCX algorithm becomes less space-efficient. Compression algorithms used by newer image formats are more efficient when compressing images such as photographs, and dithered or otherwise complex graphics.
+

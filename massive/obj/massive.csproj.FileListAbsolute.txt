@@ -1,0 +1,9 @@
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\bin\Debug\massive.exe
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\bin\Debug\massive.pdb
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\massive.MainForm.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\massive.Properties.Resources.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\massive.csproj.GenerateResource.Cache
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\massive.exe
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\massive.pdb
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\massive.splashscreen.resources

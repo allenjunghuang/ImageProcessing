@@ -1,0 +1,85 @@
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\massive.MainForm.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\massive.Properties.Resources.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\massive.splashscreen.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\PcxView.csproj.GenerateResource.Cache
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\massive.exe
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\bin\Debug\massive.exe
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\bin\Debug\massive.pdb
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\massive\massive\obj\Debug\massive.pdb
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.exe
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.pdb
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\bin\Debug\massive.exe
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\bin\Debug\massive.pdb
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.MainForm.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.Properties.Resources.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.splashscreen.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\PcxView.csproj.GenerateResource.Cache
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.Rotate.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.BitPlanes.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.GrayScale.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.Zoom.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.Histogram.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.Thresholding.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.Transparency.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.RGBColorFilter.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.InvertColor.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.WaterMark.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.Huffman.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.Sobel.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.Lowpass.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.HeaderInfo.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.HistogramEqualize.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.HighpassFilter.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.MedianFilter.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.OutlierFilter.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.PseudoMedian.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.DCT.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.EdgeCrispening.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.HighBoost.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.ClipBoard.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.PrewittOperator.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.RobertsOperator.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.HistogramSpecify.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.FractalCoding.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.PixelDivision.resources
+C:\Users\Alem\Documents\Visual Studio 2005\Projects\PcxView\massive\obj\Debug\massive.AboutPcx.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.exe
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.pdb
+H:\Pcx\M013020113\PcxView\massive\bin\Debug\massive.exe
+H:\Pcx\M013020113\PcxView\massive\bin\Debug\massive.pdb
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\ResolveAssemblyReference.cache
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.AboutPcx.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.BitPlanes.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.ClipBoard.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.DCT.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.EdgeCrispening.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.MainForm.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.FractalCoding.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.GrayScale.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.HeaderInfo.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.HighBoost.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.HighpassFilter.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.Histogram.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.HistogramEqualize.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.HistogramSpecify.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.Huffman.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.InvertColor.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.Lowpass.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.MedianFilter.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.OutlierFilter.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.PixelDivision.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.PrewittOperator.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.Properties.Resources.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.PseudoMedian.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.RGBColorFilter.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.RobertsOperator.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.Rotate.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.Sobel.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.Thresholding.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.Transparency.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.WaterMark.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.Zoom.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\massive.splashscreen.resources
+H:\Pcx\M013020113\PcxView\massive\obj\Debug\PcxView.csproj.GenerateResource.Cache
