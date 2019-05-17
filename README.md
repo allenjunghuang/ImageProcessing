@@ -1,17 +1,20 @@
 # Image Augmentor
 
-This application demonstrate popular image processing algorithms.
-
-Decoding the PCX formate images.
+This application demonstrate popular image processing algorithms with PCX formate images.
 
 ## Geometric Operations
 
 - Rotation
 
+  Perform forward and backward rotation.
+
 - Zoom
 
-- Cartesian to Polar Coordinate Transformation
+  Zoom-in the image by averaging and zoom-out by subsampling.
 
+- Cartesian to Polar 
+
+  Transfrom an image from Cartesian to polar coordinate. This transformation is useful for a circular image analysis.
 
 ## Point Processing
 
@@ -40,7 +43,7 @@ The use of spatial masks for image processing usually is called spatial filterin
 
 Linear spatial filtering often is referred to as convolving a mask with an image. For nonlinear spatial filtering, the filtering operation is based conditionally on the values of the pixels in the neighborhood under consideration, but not explicitly use coefficients in the sum-of-products manner, such as median filtering.
 
-- Lowpass Filtering 
+- Lowpass Filter
 
   - Average
     
@@ -71,7 +74,13 @@ Linear spatial filtering often is referred to as convolving a mask with an image
 
 - Fractal
 
+  If we consider a set to be fractal, we think of it as having the following properties:   
+  - The set has detail at every scale and is self-similar.
+  - There is a simple algorithmic description of the set.
 
+  The initial image placed on the iterative function system (IFS) does not affect the final attractor. In fact, it is only the position and the orientation that determines what the final image will look like.
+
+  In practice, affine transformations are rich enough and yield interesting set of attractors.
 
 - DCT
 
