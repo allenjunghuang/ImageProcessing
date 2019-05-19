@@ -32,7 +32,7 @@ Histogram indecates the frequency of brightness value in image.
 
   The algorithm assumes the image histogram is bimodal and finds the optimum threshold to separate the two classes. It is capable of separating a foreground from a background.
 
-- Bit Plane Slicing
+- Bit-plane Slicing
 
   Highlighting the contribution made to the total image appearance by specific bits. The higher-order shows the majority of the visually significant data, and lower-order presents subtle details.
 
@@ -47,7 +47,7 @@ Linear spatial filtering often is referred to as convolving a mask with an image
 
   - Average
     
-    A spatial averaging filter in which all coefficients are equal.
+    A spatial averaging filter in which all coefficients are equal. By the way, averaging is analogous to integration, and sharpening can be accomplished by spatial differentiation.
 
   - Median
 
@@ -55,7 +55,11 @@ Linear spatial filtering often is referred to as convolving a mask with an image
 
 - Highpass Filter
 
+  The shape of the impulse response needed to implement a high-pass spatial filter indicates that the filter should have positive coefficients near its center, and negative coefficients in the outer periphery, such as Laplacian operator. 
 
+- Edge Crispening
+
+  Making edges slightly sharper and crisper. This operation is subtracting a blurred version of an image from the image itself.
 
 - Gradient Filter
 
@@ -65,10 +69,6 @@ Linear spatial filtering often is referred to as convolving a mask with an image
   - Prewitt
   
   - Roberts cross-gradient operators
-
-- Edge Crispening
-
-  Making edges slightly sharper and crisper. This operation is subtracting a blurred version of an image from the image itself.
 
 ## Image Transformation
 
@@ -83,5 +83,7 @@ Linear spatial filtering often is referred to as convolving a mask with an image
   In practice, affine transformations are rich enough and yield interesting set of attractors.
 
 - DCT
+
+  A discrete cosine transform (DCT) is a Fourier related transform which is similar to the discrete Fourier transform (DFT) but using only real numbers. 
 
 
