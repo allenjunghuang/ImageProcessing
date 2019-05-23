@@ -6,8 +6,8 @@ This application demonstrate popular image processing algorithms with PCX format
 
 - Rotation
 
-  Perform forward and backward rotation.
-
+  Compare backward and forward rotation.
+  ![rotation](help/rotation.png)
 - Zoom
 
   Zoom-in the image by averaging and zoom-out by subsampling.
@@ -23,11 +23,11 @@ Histogram indecates the frequency of brightness value in image.
 - Histogram Equalization
 
   Producing an image with equally distributed brightness levels over the whole brightness scale.
-
+  ![histogram equalization](help/histogram-equalization.png)
 - Histogram Specification
 
   The aim is to produce an image with desired distributed brightness levels over the whole brightness scale, as opposed to uniform distribution.  
-
+  ![histogram specification](help/histogram-specification.png)
 - Otsu Thresholding
 
   The algorithm assumes the image histogram is bimodal and finds the optimum threshold to separate the two classes. It is capable of separating a foreground from a background.
@@ -48,6 +48,7 @@ Linear spatial filtering often is referred to as convolving a mask with an image
   - Average
     
     A spatial averaging filter in which all coefficients are equal. By the way, averaging is analogous to integration, and sharpening can be accomplished by spatial differentiation.
+    ![lowpass](help/lowpass.png)
 
   - Median
 
@@ -60,15 +61,19 @@ Linear spatial filtering often is referred to as convolving a mask with an image
 - Edge Crispening
 
   Making edges slightly sharper and crisper. This operation is subtracting a blurred version of an image from the image itself.
-
+  ![edge crispening](help/edge-crispening.png)
 - Gradient Filter
 
   There are three popular operators:
   - Sobel
-  
+
+  ![gradient sobel](help/gradient-sobel.png)
   - Prewitt
-  
-  - Roberts cross-gradient operators
+
+  ![gradient prewitt](help/gradient-prewitt.png)
+  - Roberts
+
+  ![gradient roberts](help/gradient-roberts.png)
 
 ## Image Transformation
 
