@@ -1,6 +1,6 @@
 ﻿namespace massive
 {
-    partial class splashscreen
+    partial class SplashScreen
     {
         /// <summary>
         /// 設計工具所需的變數。
@@ -28,20 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(splashscreen));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SplashScreen));
             this.SuspendLayout();
             // 
-            // splashscreen
+            // SplashScreen
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(321, 402);
+            this.ClientSize = new System.Drawing.Size(750, 550);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "splashscreen";
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Name = "SplashScreen";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "splashscreen";
+            this.Text = "SplashScreen";
             this.Load += new System.EventHandler(this.splashscreen_Load);
             this.ResumeLayout(false);
 

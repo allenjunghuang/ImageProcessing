@@ -374,7 +374,7 @@
             // 
             this.cutToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("cutToolStripMenuItem.Image")));
             this.cutToolStripMenuItem.Name = "cutToolStripMenuItem";
-            this.cutToolStripMenuItem.Size = new System.Drawing.Size(252, 30);
+            this.cutToolStripMenuItem.Size = new System.Drawing.Size(138, 30);
             this.cutToolStripMenuItem.Text = "Cut";
             this.cutToolStripMenuItem.Click += new System.EventHandler(this.cutToolStripMenuItem_Click_1);
             // 
@@ -382,7 +382,7 @@
             // 
             this.pasteToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("pasteToolStripMenuItem.Image")));
             this.pasteToolStripMenuItem.Name = "pasteToolStripMenuItem";
-            this.pasteToolStripMenuItem.Size = new System.Drawing.Size(252, 30);
+            this.pasteToolStripMenuItem.Size = new System.Drawing.Size(138, 30);
             this.pasteToolStripMenuItem.Text = "Copy";
             this.pasteToolStripMenuItem.Click += new System.EventHandler(this.pasteToolStripMenuItem_Click);
             // 
@@ -390,7 +390,7 @@
             // 
             this.pasteToolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("pasteToolStripMenuItem1.Image")));
             this.pasteToolStripMenuItem1.Name = "pasteToolStripMenuItem1";
-            this.pasteToolStripMenuItem1.Size = new System.Drawing.Size(252, 30);
+            this.pasteToolStripMenuItem1.Size = new System.Drawing.Size(138, 30);
             this.pasteToolStripMenuItem1.Text = "Paste";
             this.pasteToolStripMenuItem1.Click += new System.EventHandler(this.pasteToolStripMenuItem1_Click);
             // 
@@ -398,7 +398,7 @@
             // 
             this.resumeToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("resumeToolStripMenuItem.Image")));
             this.resumeToolStripMenuItem.Name = "resumeToolStripMenuItem";
-            this.resumeToolStripMenuItem.Size = new System.Drawing.Size(252, 30);
+            this.resumeToolStripMenuItem.Size = new System.Drawing.Size(138, 30);
             this.resumeToolStripMenuItem.Text = "Reset";
             this.resumeToolStripMenuItem.Click += new System.EventHandler(this.resumeToolStripMenuItem_Click);
             // 
@@ -643,7 +643,7 @@
             // 
             this.huffmanToolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("huffmanToolStripMenuItem1.Image")));
             this.huffmanToolStripMenuItem1.Name = "huffmanToolStripMenuItem1";
-            this.huffmanToolStripMenuItem1.Size = new System.Drawing.Size(252, 30);
+            this.huffmanToolStripMenuItem1.Size = new System.Drawing.Size(166, 30);
             this.huffmanToolStripMenuItem1.Text = "Huffman";
             this.huffmanToolStripMenuItem1.Click += new System.EventHandler(this.huffmanToolStripMenuItem1_Click);
             // 
@@ -651,7 +651,7 @@
             // 
             this.fractalToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("fractalToolStripMenuItem.Image")));
             this.fractalToolStripMenuItem.Name = "fractalToolStripMenuItem";
-            this.fractalToolStripMenuItem.Size = new System.Drawing.Size(252, 30);
+            this.fractalToolStripMenuItem.Size = new System.Drawing.Size(166, 30);
             this.fractalToolStripMenuItem.Text = "Fractal";
             this.fractalToolStripMenuItem.Click += new System.EventHandler(this.fractalToolStripMenuItem_Click);
             // 
@@ -659,7 +659,7 @@
             // 
             this.dCTToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("dCTToolStripMenuItem.Image")));
             this.dCTToolStripMenuItem.Name = "dCTToolStripMenuItem";
-            this.dCTToolStripMenuItem.Size = new System.Drawing.Size(252, 30);
+            this.dCTToolStripMenuItem.Size = new System.Drawing.Size(166, 30);
             this.dCTToolStripMenuItem.Text = "DCT";
             this.dCTToolStripMenuItem.Click += new System.EventHandler(this.dCTToolStripMenuItem_Click_1);
             // 
@@ -675,7 +675,7 @@
             // 
             this.aboutViewPcxToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("aboutViewPcxToolStripMenuItem.Image")));
             this.aboutViewPcxToolStripMenuItem.Name = "aboutViewPcxToolStripMenuItem";
-            this.aboutViewPcxToolStripMenuItem.Size = new System.Drawing.Size(252, 30);
+            this.aboutViewPcxToolStripMenuItem.Size = new System.Drawing.Size(183, 30);
             this.aboutViewPcxToolStripMenuItem.Text = "About PCX";
             this.aboutViewPcxToolStripMenuItem.Click += new System.EventHandler(this.aboutViewPcxToolStripMenuItem_Click);
             // 
@@ -707,7 +707,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MainForm";
-            this.Text = "Image Augmentation";
+            this.Text = "Image Augmentor";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();

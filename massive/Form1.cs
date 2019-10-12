@@ -62,7 +62,7 @@ namespace massive
 
         private void splashscreen()
         {
-            splashscreen splashapp = new splashscreen();
+            SplashScreen splashapp = new SplashScreen();
             splashapp.ShowDialog();
         }
 

@@ -8,13 +8,10 @@ This application demonstrate popular image processing algorithms with PCX format
 
   Compare backward and forward rotation.
   ![rotation](help/rotation.PNG)
+
 - Zoom
 
   Zoom-in the image by averaging and zoom-out by subsampling.
-
-- Cartesian to Polar 
-
-  Transfrom an image from Cartesian to polar coordinate. This transformation is useful for a circular image analysis.
 
 ## Point Processing
 
@@ -24,10 +21,12 @@ Histogram indecates the frequency of brightness value in image.
 
   Producing an image with equally distributed brightness levels over the whole brightness scale.
   ![histogram equalization](help/histogram-equalization.PNG)
+
 - Histogram Specification
 
   The aim is to produce an image with desired distributed brightness levels over the whole brightness scale, as opposed to uniform distribution.  
   ![histogram specification](help/histogram-specification.PNG)
+
 - Otsu Thresholding
 
   The algorithm assumes the image histogram is bimodal and finds the optimum threshold to separate the two classes. It is capable of separating a foreground from a background.
@@ -61,7 +60,9 @@ Linear spatial filtering often is referred to as convolving a mask with an image
 - Edge Crispening
 
   Making edges slightly sharper and crisper. This operation is subtracting a blurred version of an image from the image itself.
+  
   ![edge crispening](help/edge-crispening.PNG)
+
 - Gradient Filter
 
   There are three popular operators:
@@ -92,3 +93,5 @@ Linear spatial filtering often is referred to as convolving a mask with an image
   A discrete cosine transform (DCT) is a Fourier related transform which is similar to the discrete Fourier transform (DFT) but using only real numbers. 
 
 
+Reference
+1. Rafael C. Gonzalez, Richard E. Woods, Digital Image Processing, 2nd edition.

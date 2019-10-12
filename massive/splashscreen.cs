@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace massive
 {
-    public partial class splashscreen : Form
+    public partial class SplashScreen : Form
     {
-        public splashscreen()
+        public SplashScreen()
         {
             InitializeComponent();
         }
