@@ -1,4 +1,4 @@
-# Image Augmentor
+# Image Processing
 
 This application demonstrate popular image processing algorithms with PCX formate images.
 
